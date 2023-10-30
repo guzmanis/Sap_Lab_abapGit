@@ -1,0 +1,23 @@
+CLASS zdemo_eclipse_igg DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    METHODS: method_1.
+
+
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zdemo_eclipse_igg IMPLEMENTATION.
+
+  METHOD method_1.
+
+  ENDMETHOD.
+
+ENDCLASS.
